@@ -10,9 +10,7 @@ function App() {
         {/*   Edit <code>src/App.js</code> and save to reload. */}
         </p>
         do some thing 1
-
-
-        balabal
+        都不要我自己重新写
       </header>
     </div>
   );
